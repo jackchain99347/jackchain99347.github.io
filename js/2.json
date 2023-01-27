@@ -1,0 +1,8 @@
+{
+    "name": "Test",
+    "id_uri": "http://localhost:3000/assert/",
+    "id": "2",
+    "description": "This is a test2!!",
+    "image": "2.gif",
+    "value": 30
+}
